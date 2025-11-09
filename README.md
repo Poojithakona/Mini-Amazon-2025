@@ -13,4 +13,3 @@ This is a responsive e-commerce product listing page created using **HTML**, **C
 1. Download or clone this repo
 2. Open `index.html` in your browser
 
-**Developed by:** Poojitha Kona 🌟
