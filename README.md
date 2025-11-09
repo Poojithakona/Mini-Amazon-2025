@@ -1,15 +1,19 @@
-# Mini Amazon 2025
+# 🛒 Mini Amazon — 2025
 
-This is a responsive e-commerce product listing page created using **HTML**, **CSS (Flexbox & Grid)**, and **JavaScript**.
+This is my e-commerce project built using HTML, CSS, and JavaScript.
 
-### Features:
-- Header with logo, search bar, and login icon
-- Sidebar with category and price filters
-- Responsive product grid
-- “Add to Cart” functionality
-- Footer with company info and social links
+## 🌐 Live Demo
+👉 [Click here to view the website](https://poojithakona.github.io/Mini-Amazon-2025/)
 
-### How to View:
-1. Download or clone this repo
-2. Open `index.html` in your browser
+## 📁 Project Structure
+- **index.html** — Main homepage  
+- **style.css** — Styling for all pages  
+- **script.js** — JavaScript functionality  
+- **images/** — Product and banner images  
+
+## 💡 Features
+- Modern responsive design  
+- Product showcase  
+- Add to cart and search bar  
+- Dark mode ready (optional upgrade)  
 
